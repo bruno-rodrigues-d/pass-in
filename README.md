@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="" src="/public/Thumbnail.png" width="100%">
+  <img alt="" src="/pass-in-web//public/Thumbnail.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
